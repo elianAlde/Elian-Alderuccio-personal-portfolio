@@ -1,0 +1,52 @@
+@media (max-width: 768px) {
+    #container{
+        width: 100%;
+    }
+
+    .row > p{
+        max-width: 90%;
+    }
+    
+}
+
+@media (min-width: 769px) AND (max-width: 992px) {
+    #container{
+        width: 65%;
+    }
+
+    .row > p{
+        max-width: 80%;
+    }
+    
+}
+
+@media (min-width: 993px) AND (max-width: 1170px) {
+    #container{
+        width: 55%;
+    }
+
+    .row > p{
+        max-width: 90%;
+    }
+    
+}
+
+@media (min-width: 1171px){
+    #container{
+        width: 40%;
+    }
+
+    .row > p{
+        max-width: 90%;
+    }
+}
+
+@media (min-width: 1172px) AND (max-width: 1400px){ 
+    #container{
+        width: 55%;
+    }
+
+    .row > p{
+        max-width: 90%;
+    }
+}

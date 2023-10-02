@@ -1,0 +1,11 @@
+#body{
+    background-color: #FCFCFC;
+}
+
+#container{
+    width: 40%;
+    height: 100vh;
+    /*border: 1px solid black;*/
+    /*font-family: 'Nunito Sans', sans-serif;*/
+    /*font-family: 'Bitter-Italic', serif;*/
+}

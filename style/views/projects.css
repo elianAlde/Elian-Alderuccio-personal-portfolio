@@ -1,0 +1,29 @@
+#projects{
+    background-color: #EAEAEA;
+    border-radius: 10px;
+}
+
+.comparsa{
+    display: none;
+    opacity: 0;
+    transform: translateY(-20px);
+    transition: opacity 0.5s, transform 0.5s;
+}
+
+.row.header, .row.content .row.main{
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.row.header{
+    margin-top: 100px;
+}
+
+.row > p{
+    max-width: 85%;
+}
+
+#select_projects{
+    width: 250px;
+    border-radius: 30px;
+}

@@ -1,0 +1,70 @@
+#home{
+    background-color: #EAEAEA;
+    border-radius: 10px;
+}
+
+.comparsa{
+    display: none;
+    opacity: 0;
+    transform: translateY(-20px);
+    transition: opacity 0.5s, transform 0.5s;
+}
+
+#image{
+    width: 200px;
+    height: auto;
+    border-radius:50%;
+}
+
+#connect{
+    width: 200px;
+    background: none;
+    border: none;
+    color:black;
+    border: 1px solid #CED4DA;
+    border-radius: 30px;
+    background-color: white;
+}
+
+#content{
+    margin-bottom: 40px;
+}
+
+#header, #main{
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+#header{
+    margin-top: 100px;
+}
+
+.row > p{
+    max-width: 85%;
+}
+
+#progetti_evidenza, #lastest_blog{
+    margin-top: 70px;
+}
+
+#progetti_evidenza > h5, #lastest_blog > h5{
+    font-weight: bold;
+}
+
+.project_content{
+    width: 80% !important;
+    margin-top: 40px !important;
+}
+
+.project_desc > h6{
+    font-weight: bold;
+}
+
+.link_projects{
+    margin-top:30px !important;
+}
+
+.link_projects > a{
+    text-decoration: none;
+    color: black;
+}
