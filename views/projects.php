@@ -11,7 +11,7 @@
 <div class="row mx-auto header comparsa">
     <?php
         $page_name = "Projects";
-        $desc = "Ho diviso i miei progetti in settori, scegli quello di tuo interesse!";
+        $desc = "Ho diviso i miei progetti in linguaggi, scegli quello di tuo interesse!";
         include "../components/header.php";
     ?>
 </div>
