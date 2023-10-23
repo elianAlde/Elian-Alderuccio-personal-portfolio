@@ -75,5 +75,5 @@
 
 
 <?php
-    include "../templates/close_layout.php";
+    include "../templates/close_layout.html";
 ?>
