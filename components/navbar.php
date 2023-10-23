@@ -18,7 +18,7 @@
     <div class="col-8">
         <nav class="nav justify-content-center">
             <a class="nav-link" id="about" href="about.php">About</a>
-            <a class="nav-link" id="curriculum" href="curriculum.php">Curriculum</a>
+            <a class="nav-link" id="curriculum" href="experience.php">Experience</a>
             <a class="nav-link" id="projects" href="projects.php">Projects</a>
             <a class="nav-link" id="blog" href="blog.php">Blog</a>
         </nav>
