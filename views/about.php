@@ -6,7 +6,7 @@
 
     $title = "About | Elian Alderuccio ";
     include "../templates/layout.php";
-    include "../components/navbar.php";
+    include "../components/navbar.html";
 ?>
 
 <div class="row mx-auto header comparsa">
